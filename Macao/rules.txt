@@ -1,0 +1,16 @@
+
+Special cards:
+Ace(used to only change the suit)
+Two(forces the player to pick up 2 cards)
+Three(forces the player to pick up 3 cards)
+Four(forces the player to skip a turn)
+Seven(stops any special card)
+
+While taking turns place a card down, it has to either match the suit or the value of the card down. If you have more than one hand of the same
+value in hand you can place all of them down, if not only one move is allowed. After the move is finished the validate button must be pressed to 
+end your turn, while waiting for the other player's move you can't click on anything.
+
+Special cards can be put on top of anything.
+
+The point of the game is to have no more cards in hand. Good luck!
+
